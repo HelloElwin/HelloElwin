@@ -1,16 +1,22 @@
-### Hi there 👋
+## About Me
 
-<!--
-**HelloElwin/HelloElwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I am Elwin! (or 叶耀文 (Ye Yaowen)) 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on machine learning and recommender systems.
+- 🤖️ I'm currently a member of HKU HerKules, a fantastic while lack-of-fund RoboMaster-AI team.
+- 🎈 I'm interested in:
+    - 🧠 Brain, mind and machine intelligence.
+    - 🧮 Linear algebra & matrix theory.
+    - 🐷 Machine learning.
+    - 🎵 Harmony theory.
+    - 🎹 Impromptu piano.
+    - 📸 Photography & cinematography.
+- 💬 Ask me anything! If you have the same interests as me, let's be friends!
+- 📫 How to reach me: elwin@connect.hku.hk
+- ⚡️ Fun fact: This sentence has no information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<!-- - 👯 I’m looking to collaborate on all these thing I'm learning.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ...
 -->
