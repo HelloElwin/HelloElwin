@@ -12,7 +12,7 @@ Hi there, I am Elwin! (or 叶耀文 (Ye Yaowen)) 👋
     - 🎹 Impromptu piano.
     - 📸 Photography & cinematography.
 - 💬 Ask me anything! If you have the same interests as me, let's be friends!
-- 🗞 Feel free to visit my [blog](helloelwin.github.io)!
+- 🗞 Feel free to visit my [blog](https://helloelwin.github.io)!
 - 📫 How to reach me: elwin@connect.hku.hk
 - ⚡️ Fun fact: This sentence has no information.
 
