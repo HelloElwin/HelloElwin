@@ -2,7 +2,7 @@
 
 Hi there, I am Elwin! (or 叶耀文 (Ye Yaowen)) 👋
 
-- 🔭 I’m currently working on machine learning and recommender systems.
+- 🔭 I’m currently working on Graph Neural Networks, Self-Supervised Learning and Recommender Systems at DataIntelligenceLab@HKU.
 - 🤖️ I'm currently a member of HKU Astar, a fantastic while lack-of-fund RoboMaster-AI team.
 - 🎈 I'm interested in:
     - 🧠 Brain, mind and machine intelligence. AI/ML/DL.
