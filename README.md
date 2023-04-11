@@ -1,24 +1,16 @@
 ## About Me
 
-Hi there, I am Elwin! (or 叶耀文 (Ye Yaowen)) 👋
+Hi there, I am Elwin! 👋
 
-- 🔭 I’m currently working on Graph Neural Networks, Self-Supervised Learning and Recommender Systems at DataIntelligenceLab@HKU.
-- 🤖️ I'm currently a member of HKU Astar, a fantastic while lack-of-fund RoboMaster-AI team.
-- 🎈 I'm interested in:
-    - 🧠 Brain, mind and machine intelligence. AI/ML/DL.
-    - ❄️ Graphs, Graph Neural Networks, and their application in various fields (RecSys, CV, NLP, etc.).
-    - 🐷 Self-Supervised Learning, especially on graphs.
-    - 🧮 Linear algebra & matrix theory.
-    - 🎵 Harmony theory.
-    - 🎹 Impromptu piano.
-    - 📸 Photography & cinematography.
-- 💬 Ask me anything! If you have the same interests as me, let's be friends!
-- 🗞 Feel free to visit my [blog](https://helloelwin.github.io)!
-- 📫 How to reach me: elwin@connect.hku.hk
-- ⚡️ Fun fact: This sentence has no information.
+🎈 I’m interested in:
+- 🧠 Machine intelligence and abstract reasoning, especially studying the reasoning ability of deep-learning-based artificial intelligence.
+- ❄️ Learning on graphs, e.g., graph neural networks, and their application in knowledge graph reasoning, recommender systems, etc.
+- 🐷 Self-supervised learning, and how it can be applied to the upper-mentioned fields.
 
-<!-- - 👯 I’m looking to collaborate on all these thing I'm learning.
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- 🌱 I’m currently learning ...
--->
+🧺 Other stuff:
+- 🤖️ I’m currently a member of HKU Astar, a fantastic while lack-of-fund RoboMaster-AI team.
+- 🎵 I love classical music, film music, harmony theory, and impromptu piano.
+- 📸 I love photography & cinematography.
+- 💬 Ask me anything! If you have the same interests as me, let’s be friends!
+
+To know more about me, please visit my [personal website](https://helloelwin.github.io).
